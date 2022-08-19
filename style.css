@@ -1,0 +1,15 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #533738;
+  font-size: 16px;
+}
+
+.main_title {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.head_title {
+  font-size: 50px;
+  font-weight: 400;
+}

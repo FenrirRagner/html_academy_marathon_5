@@ -2,6 +2,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: #533738;
   font-size: 16px;
+  background-color: #EFE6E4;
 }
 
 .main_title {
@@ -12,4 +13,61 @@ body {
 .head_title {
   font-size: 50px;
   font-weight: 400;
+  line-height: 62px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 50px;
+  text-transform: uppercase;
+}
+
+.about_list {
+  list-style: none;
+  background-color: #8D7370;
+  color: #ffffff;
+}
+
+.adv_count {
+  font-size: 50px;
+  line-height: 62px;
+}
+
+.about_item {
+  font-size: 30px;
+  line-height: 36.57px;
+}
+
+.works_article {
+  background-image: url("img/backgroung/our_works_hover.jpg");
+  background-color: rgba(100, 72, 69, 0.8);
+  background-blend-mode: color;
+  width: 488px;
+  height: 451px;
+}
+
+.works_title_example {
+  font-size: 30px;
+  line-height: 36.57px;
+  color: #ffffff;
+}
+
+.works_text {
+  color: #ffffff;
+}
+
+.works_link {
+  font-size: 30px;
+  line-height: 37px;
+}
+
+.process_item {
+  font-size: 18px;
+  line-height: 30px;
 }
